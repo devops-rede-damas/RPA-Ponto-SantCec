@@ -1,0 +1,17 @@
+# Credenciais
+.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment
+venv/
+.venv/
+
+# Logs gerados em execução
+logs/
+
+# Arquivos AFD baixados
+AFD_STACECILIA.txt
